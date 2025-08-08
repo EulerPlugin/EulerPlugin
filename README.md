@@ -18,10 +18,10 @@ I’m passionate about turning sound concepts into real-time, production-ready t
 ## 📂 Featured Projects
 
 ### 🔹 [EulerDelay]
- A JUCE-based C++ delay plugin with tempo-synced and time-based modes, ping-pong support, and full preset management. Built using JUCE & Xcode, supporting AU, VST3, and AAX formats.
+ A **JUCE-based C++** delay plugin with tempo-synced and time-based modes, ping-pong support, and full preset management. Built using JUCE & Xcode, supporting AU, VST3, and AAX formats.
 
 ### 🔹 [EulerFlanger]
-A JUCE & CMake-based flanger plugin using LFO-modulated variable delay, circular buffer optimization, and linear interpolation for smooth, real-time sweeping effects.
+A **JUCE & CMake-based** flanger plugin using LFO-modulated variable delay, circular buffer optimization, and linear interpolation for smooth, real-time sweeping effects.
 
 ### 🔹 [Python DSP Practice]
 DSP algorithms implemented in Python for rapid prototyping — including circular buffers, comb filters, and interpolation.
