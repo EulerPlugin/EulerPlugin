@@ -7,8 +7,8 @@ I’m passionate about turning sound concepts into real-time, production-ready t
 ---
 
 ## 🛠 Tech Stack
-- **Languages:** C++, Python  
-- **Audio Frameworks:** JUCE, VST3, AU  
+- **Languages:** C++ (JUCE Framework) ,Python (Numpy)
+- **Audio Frameworks:** VST3, AU , AAX
 - **DSP Skills:** Filter design (IIR/FIR, Butterworth), Delay-based effects (Flanger, Comb filter), FFT, Interpolation  
 - **Tools:** CMake, Git, Xcode, Visual Studio  
 - **Other:** Acoustic measurement & analysis, music production, mastering
